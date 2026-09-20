@@ -11,4 +11,5 @@ Doors can be opened by shooting them, blue doors can be opened from any projecti
 
 The rocket inherits from the projectile class, but changing the reaction when hitting an enemy or wall, to make it do splash damage.
 Projectiles grab variables from the door class, checking if its open and if its a strong door through functions.
+
 <img width="687" height="292" alt="image" src="https://github.com/user-attachments/assets/b328d3aa-c883-4db0-807d-2f72af28045d" />
